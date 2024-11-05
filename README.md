@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe project for The Odin Project
+Recipe website project for The Odin Project, using only HTML.
